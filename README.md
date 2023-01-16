@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Orso.
+- 👋 Hi, I’m Pierre.
 - 👀 I’m interested in engineering and computer science, especially Web dev for now.
 - 🌱 I’m currently learning engineering at university and computer science as a side project.
 
